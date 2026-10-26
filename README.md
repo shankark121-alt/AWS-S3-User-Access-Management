@@ -62,7 +62,7 @@ The exact permissions depend on the project requirements.
 
 <img width="648" height="330" alt="image" src="https://github.com/user-attachments/assets/4343b588-94ef-4d62-ba3c-946f87507b41" />
 
-# **TEST USER ACCESS*
+# **TEST USER ACCESS**
 
 Verify that the authorized user can perform the permitted actions.
 
@@ -70,7 +70,7 @@ Confirm that restricted actions are denied.
 
 Check the IAM policy and bucket permissions if access fails.
 
-# **SECURITY CONFIGURATION*
+# **SECURITY CONFIGURATION**
 
 Follow the principle of least privilege.
 
@@ -82,13 +82,13 @@ Never upload AWS access keys, secret keys, or passwords to GitHub.
 
 Review IAM permissions regularly.
 
-# **EXPECTED OUTCOME*
+# **EXPECTED OUTCOME**
 
 The project demonstrates how AWS IAM controls user permissions and how Amazon S3 resources can be protected against unauthorized access.
 
 <img width="691" height="354" alt="image" src="https://github.com/user-attachments/assets/09ae66f4-5d23-4645-af6c-5d7454781884" />
 
-# **STEPS FOR UPLODING STML FILE*
+# **STEPS FOR UPLODING STML FILE**
 
 1. Download sample HTML file from google (e.g. index.html)
 
@@ -116,7 +116,7 @@ The project demonstrates how AWS IAM controls user permissions and how Amazon S3
 
 <img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/07be7848-39aa-4167-9b6b-03271ed47aeb" />
 
-# **CONCLUSION*
+# **CONCLUSION**
 
 This project provides practical experience with AWS user management and secure cloud storage access. It demonstrates the importance of assigning appropriate permissions 
 and protecting data stored in Amazon S3.
